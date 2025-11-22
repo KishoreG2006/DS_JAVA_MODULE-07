@@ -22,8 +22,8 @@ To write a java  program that removes all nodes from a linked list whose value m
 
 ## Program:
 ```
-Developed by: SANJAY M
-RegisterNumber: 212223230187
+Developed by: KISHORE G
+RegisterNumber:  212223040099
 ```
 ```
 import java.util.Scanner;
